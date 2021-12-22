@@ -1,6 +1,8 @@
 # Installation Instructions
 ## Chrome OS
-Simply Download the HTML file, and then load it.
+1. Navigate to the raw version of the HTML file
+2. Press CTRL-S to save it to your computer
+3. Load the HTML file
 ## Windows
 1. Download the .exe file
 2. Run the .exe file
